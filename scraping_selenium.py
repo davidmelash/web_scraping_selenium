@@ -18,7 +18,7 @@ name_city = []
 email = []
 
 
-def get_websites(driver, n_page=2):
+def get_profiles(driver, n_page=2):
     """Get web site and find all profiles"""
 
     for i in range(1, 26):   #search by cities
@@ -65,5 +65,5 @@ def write_down(name_city, email):
 
 
 if __name__ == '__main__':
-    get_websites(driver, 3)
+    get_profiles(driver, 3)
     write_down(name_city, email)
