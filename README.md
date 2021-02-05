@@ -2,7 +2,7 @@
 Python web scraping example  
 The code shows how to do web scraping profiles  
 
-I used as data upsihologa.com site to extract information from profiles and generate a csv file with name and email of psychologists
+I used as data [upsihologa.com](https://upsihologa.com.ua) site to extract information from profiles and generate a csv file with name and email of psychologists
 
 ### Installing selenium
 ***
