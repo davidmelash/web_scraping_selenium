@@ -21,8 +21,8 @@ __Opera__:
 https://github.com/operasoftware/operachromiumdriver/releases  
 
 
-Then you need unzip it.
-/#It is recommended to move webdriver to C:\Program Files (x86)
+Then you need unzip it.  
+\#It is recommended to move webdriver to C:\Program Files (x86)
 
 #### Running the code
 ***
