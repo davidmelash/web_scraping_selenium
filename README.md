@@ -16,7 +16,7 @@ pip install selenium
 ***
 
 __Chrome__: 
-https://sites.google.com/a/chromium.org/chromedriver/downloads
+https://sites.google.com/a/chromium.org/chromedriver/downloads  
 __Opera__: 
 https://github.com/operasoftware/operachromiumdriver/releases
 
