@@ -53,7 +53,7 @@ def get_content(driver, search_profiles):
 
 
 def write_down(name_city, email):
-    """writing down content to csv file using pandas library"""
+    """writing content to csv file using pandas library"""
 
     psychologists = pd.DataFrame(
         {
